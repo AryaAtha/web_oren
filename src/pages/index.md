@@ -1,50 +1,31 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Pusatnya Kucing Berkualitas
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Pusatnya Kucing Berkualitas
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Kenapa Oren
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Oren adalah platform jual beli kucing untuk semua orang yang percaya bahwa memiliki kucing bukan hanya tentang menemukan teman yang menyenangkan, tapi juga memberikan dampak positif. Kami menghubungkan para pembeli dan penjual kucing dengan cara yang aman dan terpercaya, serta memastikan sebagian dari keuntungan kami disalurkan untuk mendukung kesejahteraan hewan dan komunitas peternak.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Oren adalah tempat terbaik bagi pecinta kucing yang ingin belajar lebih banyak tentang cara merawat dan memilih kucing yang sehat dan bahagia. Kami menjaga proses jual beli kucing dengan sangat serius, dari pemilihan ras hingga kesejahteraan kucing, dan kami senang bisa membagikan pengetahuan ini kepada siapa pun.
+subdescription: 
+  Oren adalah tempat terbaik bagi pecinta kucing yang ingin belajar lebih banyak tentang cara merawat dan memilih kucing yang sehat dan bahagia. Kami menjaga proses jual beli kucing dengan sangat serius, dari pemilihan ras hingga kesejahteraan kucing, dan kami senang bisa membagikan pengetahuan ini kepada siapa pun.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Kami menjual berbagai jenis kucing yang berasal dari peternak independen dan peternakan yang berkomitmen pada kesejahteraan hewan. Kami bangga menawarkan berbagai pilihan kucing dengan perhatian penuh terhadap kesehatan dan kebahagiaan mereka. Hubungi kami langsung untuk mengetahui ketersediaan terbaru.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Kami juga menyediakan berbagai aksesori dan perlengkapan untuk kucing, seperti kandang, mainan, hingga perlengkapan perawatan. Kami memastikan semua produk yang kami jual berkualitas dan aman untuk kucing Anda.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Punya pertanyaan tentang cara merawat kucing yang baru Anda beli? Atau tidak tahu cara memilih makanan yang tepat untuk kucing Anda? Jangan khawatir, kami siap membantu. Anda bisa mengatur sesi konsultasi pribadi dengan ahli perawatan hewan kami untuk mempelajari segala hal yang perlu Anda ketahui tentang merawat kucing. Hubungi kami melalui email atau telepon untuk detail lebih lanjut.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Kami percaya bahwa kucing memiliki kekuatan untuk membawa kebahagiaan dan koneksi antar sesama. Itulah sebabnya kami menyediakan ruang khusus di platform kami, di mana Anda bisa bertemu dan berdiskusi dengan sesama pecinta kucing, berbagi tips perawatan, atau hanya sekadar berbincang tentang hewan peliharaan Anda.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
