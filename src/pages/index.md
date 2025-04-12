@@ -11,7 +11,7 @@ mainpitch:
 description: >-
   Oren adalah tempat terbaik bagi pecinta kucing yang ingin belajar lebih banyak tentang cara merawat dan memilih kucing yang sehat dan bahagia. Kami menjaga proses jual beli kucing dengan sangat serius, dari pemilihan ras hingga kesejahteraan kucing, dan kami senang bisa membagikan pengetahuan ini kepada siapa pun.
 subdescription: 
-  Oren adalah tempat terbaik bagi pecinta kucing yang ingin belajar lebih banyak tentang cara merawat dan memilih kucing yang sehat dan bahagia. Kami menjaga proses jual beli kucing dengan sangat serius, dari pemilihan ras hingga kesejahteraan kucing, dan kami senang bisa membagikan pengetahuan ini kepada siapa pun.
+ Kami sangat menghargai setiap langkah dalam proses jual beli kucing, mulai dari pemilihan ras yang tepat hingga memastikan kesejahteraan mereka. Dengan senang hati, kami ingin berbagi informasi dan wawasan ini kepada siapa pun yang ingin memahami lebih dalam tentang cara merawat kucing dengan baik.
 intro:
   blurbs:
     - image: /img/coffee.png
