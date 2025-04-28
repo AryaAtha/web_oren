@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Panduan Awal untuk Mengenal Kucing: Si Menggemaskan yang Penuh Karakter
+title: Panduan Awal untuk Mengenal Kucing Si Menggemaskan yang Penuh Karakter
 date: 2017-01-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/chemex.jpg
@@ -23,7 +23,7 @@ Sama kayak kamu pilih biji kopi—Arabika atau Robusta—kucing juga punya kepri
 2. Kenali gaya hidupmu dulu—aktif atau santai?
 3. Adopsi kucing dari shelter = tambah pahala dan dapat sahabat setia.
 
-## Peralatan Dasar: Starter Pack Si Meong
+## Starter Pack Si Meong
 Kamu nggak perlu langsung beli semua mainan mahal. Yang penting-penting aja dulu:
 
 Tempat makan dan minum
