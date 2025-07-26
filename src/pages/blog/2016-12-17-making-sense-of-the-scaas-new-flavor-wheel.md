@@ -1,33 +1,38 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: 'Biar Gak Salah Rawat: Ngerti Cara Bersihin Kucing'
 date: 2016-12-17T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/kucingblog2.jpeg
+description: Merawat kucing itu bukan cuma soal kasih makan dan main bareng. Kalau pengen kucingmu sehat, nyaman, dan bulunya kinclong, kamu juga perlu ngerti cara bersih-bersih yang bener — dari nyisir bulu sampai mandiin.
 tags:
-  - flavor
-  - tasting
+  - perawatan
+  - grooming
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![grooming](/img/kucingblog2.jpeg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Nah, sekarang mulai banyak panduan yang lebih detail soal ini, dan itu kabar baik banget. Soalnya setiap kucing beda-beda: ada yang bulunya gampang kusut, ada yang ogah banget kena air, dan ada juga yang gampang stres kalau dibersihin. Panduan baru ini bantu kita paham langkah-langkah yang cocok sesuai kebutuhan kucing.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## Terus, Apa Gunanya Buat Kamu?
 
-## What the updates mean to you
+Gini, dulu mungkin kita mikir grooming itu urusan salon hewan. Tapi sekarang, makin banyak pemilik kucing yang pengen bisa ngerawat sendiri di rumah. Selain lebih hemat, kucing juga lebih nyaman karena bareng orang yang dia kenal.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Panduan baru ini dibuat bareng komunitas penyayang kucing, dokter hewan, dan groomer. Isinya nggak ribet, tapi cukup lengkap buat bantu kamu ngerti hal-hal penting kayak:
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+* producersNyisir bulu tanpa bikin kucing bete
+* Kapan waktu terbaik buat mandiin
+* Gimana ngecek kondisi kulit dan bulu
+* Trik biar kucing nggak kabur pas kena air
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Mandi = rusuh? Gak Lagi.
+Mandiin kucing emang jadi tantangan banyak orang. Tapi kalau kamu tahu caranya, mulai dari air hangat, teknik nyiram, sampai cara ngeringin, itu semua bisa jadi rutinitas yang aman dan nyaman buat kamu dan kucingmu.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Yang penting, jangan asal guyur. Kenali dulu karakter kucingmu, pelan-pelan aja. Kalau udah biasa, justru banyak kucing yang seneng loh dimandiin.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Nyisir = Drama? Bisa Jadi Nggak, Kok.
+Banyak kucing langsung manyun atau kabur pas liat sisir. Tapi sebenarnya, nyisir bisa jadi momen santai asal tahu pendekatannya. Mulailah dari area yang dia suka, kayak kepala atau dagu, terus pelan-pelan turun ke badan.
+
+Jangan langsung sikat semua bagian sekaligus. Bikin sesinya pendek, tapi rutin. Dan jangan lupa kasih treat setelahnya — biar nyisir identik sama hal yang enak.
+
+
+

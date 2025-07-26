@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
+import whatsapp from "../img/wa.webp";
 import logo from "../img/logo.png";
 
 const Navbar = () => {
@@ -58,20 +58,16 @@ const Navbar = () => {
               Contact
             </Link>
           </li>
-          <li className="navbar-item" style={{ padding: "0px" }}>
-            <Link className="navbar-item" to="/contact/examples">
-              Form Examples
-            </Link>
-          </li>
+
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/decaporg/gatsby-plugin-decap-cms"
+              href="https://wa.me/089668226889"
               target="_blank"
               rel="noopener noreferrer"
             >
               <span className="icon">
-                <img src={github} alt="Github" />
+                <img src={whatsapp} alt="Whatsapp" />
               </span>
             </a>
           </li>

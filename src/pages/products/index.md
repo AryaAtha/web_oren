@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: Produk Kami
-image: /img/OIIP.jpg
+image: /img/grafiti2.jpg
 heading: Kenapa Oren
 description: >-
    Oren adalah platform jual beli kucing untuk semua orang yang percaya bahwa memiliki kucing bukan hanya tentang menemukan teman yang menyenangkan, tapi juga memberikan dampak positif. Kami menghubungkan para pembeli dan penjual kucing dengan cara yang aman dan terpercaya, serta memastikan sebagian dari keuntungan kami disalurkan untuk mendukung kesejahteraan hewan dan komunitas peternak.

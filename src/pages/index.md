@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Pusatnya Kucing Berkualitas
-image: /img/home-jumbotron.jpg
+image: /img/grafiti5.jpg
 heading: Pusatnya Kucing Berkualitas
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
